@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-internships-2027) |
+| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-internships-2027) |
 | **Bosch Group** | Robotics Research Intern | Sunnyvale, CA | 9h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154911489?s=gh-internships-2027) |
 | **Databricks** | Product Design Intern (2027 Start) | San Francisco, California | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-8787352002?s=gh-internships-2027) |
 | **AMD** | Summer 2027 ASIC Design Co-Op/ Intern | Orlando, FL, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-91341?s=gh-internships-2027) |
@@ -579,7 +579,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Northrop Grumman** | 2027 Supply Chain Intern - Elkton MD | United States-Maryland-Elkton | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254340?s=gh-internships-2027) |
 | **Atoms** | MBA Technical Strategy and Operations Intern | San Francisco, CA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-atoms-8868464002?s=gh-internships-2027) |
 | **NBCUniversal** | Talent Acquisition Intern, DreamWorks Animation, Spring 2027 | Glendale, CALIFORNIA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-NBCUniversal3-744000153546699?s=gh-internships-2027) |
-| **Citi** | Early ID Program - Investment Banking, Fall 2026 – San Francisco Healthcare | San Francisco California United... | 6d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26999868?s=gh-internships-2027) |
+| **Citi** | Early ID Program - Investment Banking, Fall 2026 – San Francisco Healthcare | San Francisco California United... | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-citi-2-26999868?s=gh-internships-2027) |
 | **Rocket Companies** | Treasury Operations Intern - Winter 2027 | Detroit, MI | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-quickenloans-rocket-careers-R-084527?s=gh-internships-2027) |
 | **Caterpillar** | 2026 Supply Chain Co-Op | Cary North Carolina | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cat-caterpillarcareers-R0000322517?s=gh-internships-2027) |
 | **Kroger** | Summer 2027 Transportation Intern-Supply Chain | Nashville, TN, United States | 1w | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-232416?s=gh-internships-2027) |
@@ -620,9 +620,9 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | 07107 - Longs Drug Stores... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996618?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 09164 - Longs Drug Stores... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996759?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern - Grad | 09189 - Longs Drug Stores... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996764?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 07107 - Longs Drug Stores... | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996618?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 09164 - Longs Drug Stores... | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996759?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 09189 - Longs Drug Stores... | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0996764?s=gh-internships-2027) |
 | **TD Bank** | 2027 Spring Co-op - Global Technology & Solutions - Business Systems Analyst (BSA) | Mount Laurel, New Jersey | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1516078?s=gh-internships-2027) |
 | **Ascension** | Respiratory Therapy Intern | Wichita, KS | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1299997?s=gh-internships-2027) |
 | **Harbinger Motors** | Intern, Battery Test | Garden Grove, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-harbingermotors-5263015007?s=gh-internships-2027) |
