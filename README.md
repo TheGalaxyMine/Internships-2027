@@ -398,7 +398,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 36m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-internships-2027) |
+| **Johnson & Johnson** | Immunology Medical Affairs Clinical Project Scientist Internship | Horsham, Pennsylvania, United... | 42m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-102793?s=gh-internships-2027) |
 | **Bosch Group** | Robotics Research Intern | Sunnyvale, CA | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154911489?s=gh-internships-2027) |
 | **Databricks** | Product Design Intern (2027 Start) | San Francisco, California | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-databricks-8787352002?s=gh-internships-2027) |
 | **AMD** | Summer 2027 ASIC Design Co-Op/ Intern | Orlando, FL, United States | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/amd-91341?s=gh-internships-2027) |
@@ -620,11 +620,11 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **CVS Health** | Pharmacy Intern - Grad | 17436 - Alaska CVS Pharmacy, L.L.C. | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0997027?s=gh-internships-2027) |
-| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | WI - Wisconsin Rapids | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072729?s=gh-internships-2027) |
-| **CVS Health** | Pharmacy Intern | NC - Weddington | 12m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072731?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern - Grad | 17436 - Alaska CVS Pharmacy, L.L.C. | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R0997027?s=gh-internships-2027) |
+| **CVS Health** | Foreign Pharmacy Grad - International Pharmacy Intern | WI - Wisconsin Rapids | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072729?s=gh-internships-2027) |
+| **CVS Health** | Pharmacy Intern | NC - Weddington | 19m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cvshealth-cvs-health-careers-R1072731?s=gh-internships-2027) |
 | **TD Bank** | 2027 Spring Co-op - Global Technology & Solutions - Business Systems Analyst (BSA) | Mount Laurel, New Jersey | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-td-td-bank-careers-R_1516078?s=gh-internships-2027) |
-| **Ascension** | Respiratory Therapy Intern | Wichita, KS | 9h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1299997?s=gh-internships-2027) |
+| **Ascension** | Respiratory Therapy Intern | Wichita, KS | 10h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1299997?s=gh-internships-2027) |
 | **Harbinger Motors** | Intern, Battery Test | Garden Grove, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-harbingermotors-5263015007?s=gh-internships-2027) |
 | **GlobalFoundries** | Customer Business Manager Intern (Summer 2027) | USA - Texas - Austin | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604223?s=gh-internships-2027) |
 | **HPE (University)** | Corporate Strategy & Transformation Intern | Spring, Texas, United States of... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-hpe-jobsathpe-1216007?s=gh-internships-2027) |
