@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Intern: Quality Engineering (Summer 2027) | CT-EAST HARTFORD-ETC | 15m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868898?s=gh-internships-2027) |
-| **RTX** | 2027 Spring/Summer Co-Op, Systems Engineering - Onsite | CT-EAST HARTFORD-ETC | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876249?s=gh-internships-2027) |
+| **RTX** | Intern: Quality Engineering (Summer 2027) | CT-EAST HARTFORD-ETC | 24m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868898?s=gh-internships-2027) |
+| **RTX** | 2027 Spring/Summer Co-Op, Systems Engineering - Onsite | CT-EAST HARTFORD-ETC | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01876249?s=gh-internships-2027) |
 | **Parsons** | Software Engineering Intern (Summer 2027) | AL, Huntsville, R187299 | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-parsons-search-R187299?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 S/W Cybersecurity Intern – Annapolis MD | United States-Maryland-Annapolis | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254705?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Systems Engineering Intern – Annapolis MD | United States-Maryland-Annapolis | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10254656?s=gh-internships-2027) |
@@ -74,7 +74,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Schweitzer Engineering Laboratories** | Software Engineer Intern | Washington - Spokane Valley | Date unknown | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-21231?s=gh-internships-2027) |
 | **ServiceNow** | AI Engineering - Assoc Software Engineer Internships - Summer 2027 (Bachelors) | Santa Clara, CALIFORNIA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000155345889?s=gh-internships-2027) |
 | **ServiceNow** | AI Engineering - Software Engineer Internships - Summer 2027 (Masters) | Santa Clara, CALIFORNIA | 16h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-ServiceNow-744000155345689?s=gh-internships-2027) |
-| **Muon Space** | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5256288007?s=gh-internships-2027) |
+| **Muon Space** | Spacecraft Test Engineering Intern (Summer 2027) | San Jose, CA | 18h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-muonspace-5256288007?s=gh-internships-2027) |
 | **Skydio** | Embedded Software Engineer Intern - Summer 2027 | San Mateo, California, United... | 18h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-skydio-8994767e-fd53-4ca2-b0ef-fe0923c1e260?s=gh-internships-2027) |
 | **Figma** | PhD Intern, Software Engineer - Graphics (2027) | San Francisco, CA • New York, NY | 19h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-figma-6219995004?s=gh-internships-2027) |
 | **DriveTime** | Software Engineering Intern (Summer 2027) | 1720 W Rio Salado Pkwy Tempe,... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-drivetime-drivetime-R16294?s=gh-internships-2027) |
@@ -399,7 +399,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
 | **Dow Jones** | Summer 2027 Internship Program – Brand Creative Design Intern | NYC | 2h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dowjones-dow-jones-career-Job_Req_55869?s=gh-internships-2027) |
-| **Field AI** | Research Scientist Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027)   Master’s... | Irvine, CA | 11h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-b37569c3-d07f-4968-82dc-44020f34e54e?s=gh-internships-2027) |
+| **Field AI** | Research Scientist Intern, Robot Learning & Manipulation (Spring, Summer & Fall 2027)   Master’s... | Irvine, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-b37569c3-d07f-4968-82dc-44020f34e54e?s=gh-internships-2027) |
 | **Field AI** | Robotics Research Intern, Embodied AI | Irvine, CA | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/lever-field-ai-ef35c537-b864-479f-9dbe-b30429ac7704?s=gh-internships-2027) |
 | **Microsoft** | Research Intern - Machine Learning and Statistics | Cambridge, Massachusetts,... | 12h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200061780?s=gh-internships-2027) |
 | **Schweitzer Engineering Laboratories** | Research Intern - Business Development | Washington - Pullman | Date unknown |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-selinc-sel-2026-19576?s=gh-internships-2027) |
@@ -620,10 +620,10 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Intern: Quality Metrology Lab (Summer 2027) | TX-AUSTIN | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868876?s=gh-internships-2027) |
-| **RTX** | Intern: Quality Core Lab (Summer 2027) | CT-EAST HARTFORD-ETC | 15m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868899?s=gh-internships-2027) |
-| **Johnson & Johnson** | Technical Operations Co-op | West Chester, Pennsylvania,... | 45m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100885?s=gh-internships-2027) |
-| **Uline** | Paid Search Internship - Summer 2027 | Pleasant Prairie, WI | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268243?s=gh-internships-2027) |
+| **RTX** | Intern: Quality Metrology Lab (Summer 2027) | TX-AUSTIN | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868876?s=gh-internships-2027) |
+| **RTX** | Intern: Quality Core Lab (Summer 2027) | CT-EAST HARTFORD-ETC | 24m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01868899?s=gh-internships-2027) |
+| **Johnson & Johnson** | Technical Operations Co-op | West Chester, Pennsylvania,... | 54m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jj-jj-R-100885?s=gh-internships-2027) |
+| **Uline** | Paid Search Internship - Summer 2027 | Pleasant Prairie, WI | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-uline-uline-careers-R268243?s=gh-internships-2027) |
 | **Microsoft** | Account Management INTERN | United States | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/microsoft-200060045?s=gh-internships-2027) |
 | **Amgen** | Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing | Puerto Rico - Juncos | 1h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-256886?s=gh-internships-2027) |
 | **Amgen** | Undergrad Co-op - Quality, Manufacturing, Operations and/or Engineering | Puerto Rico - Juncos | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-amgen-careers-R-256495?s=gh-internships-2027) |
