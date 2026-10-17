@@ -355,7 +355,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **Stantec** | Structural Engineering Intern - Buildings (Summer 2027) | Los Angeles, CA, United States | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-hdhl-1008287?s=gh-internships-2027) |
 | **Texas Instruments** | Field Applications Engineering Intern (Irvine, CA) | Irvine, CA, United States | 3d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-texas-instruments-25017585?s=gh-internships-2027) |
 | **Syska Hennessy Group** | Mechanical Engineer Summer Intern | Tampa, FL | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-syskahennessy-8267624?s=gh-internships-2027) |
-| **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United... | 3d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5265158007?s=gh-internships-2027) |
+| **Anduril** | 2027 Firmware Engineer Intern | Costa Mesa, California, United... | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-andurilindustries-5265158007?s=gh-internships-2027) |
 | **Allison Transmission** | Manufacturing Engineering Internship - Summer 2027 | Indianapolis, IN | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008289?s=gh-internships-2027) |
 | **Allison Transmission** | Manufacturing Engineering Internship - Summer 2027 | Indianapolis, IN | 4d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allisontransmission-ati-external-R008288?s=gh-internships-2027) |
 | **Marvell** | Firmware Engineer Intern, BS - Summer 2027 | Santa Clara, CA | 4d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-marvell-marvellcareers-2604461?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 35m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-internships-2027) |
+| **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 44m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-internships-2027) |
 | **ASM Global** | Finance Intern   Highmark Stadium | Orchard Park, NY | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100125955?s=gh-internships-2027) |
 | **Ascension** | Marketing Intern | Saint Louis, MO | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-1325112?s=gh-internships-2027) |
 | **Ascension** | Supply Chain Field Operations Intern | MILWAUKEE, WI | 22h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ascension-2026-465192?s=gh-internships-2027) |
@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **JLL** | Capital Markets Summer 2027 Internship - Indianapolis, IN | Indianapolis, IN | 25m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530233?s=gh-internships-2027) |
+| **JLL** | Capital Markets Summer 2027 Internship - Indianapolis, IN | Indianapolis, IN | 34m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530233?s=gh-internships-2027) |
 | **Highmark Health** | Radiology Technologist Intern / Casual   SVH | Erie PA, 16502 | 17h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J289898?s=gh-internships-2027) |
 | **Highmark Health** | Radiology Technologist Intern / IR   AGH | Pittsburgh PA, 15212 | 17h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-highmarkhealth-highmark-J288129?s=gh-internships-2027) |
 | **Cigna** | Pharmacy Underwriting Summer Internship Program | Morris Plains, NJ | 19h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cigna-cignacareers-26009219?s=gh-internships-2027) |
