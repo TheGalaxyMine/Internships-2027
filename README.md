@@ -620,7 +620,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **JLL** | Capital Markets Summer 2027 Internship - Indianapolis, IN | Indianapolis, IN | 46m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530233?s=gh-internships-2027) |
+| **JLL** | Capital Markets Summer 2027 Internship - Indianapolis, IN | Indianapolis, IN | 53m |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-jll-jllcareers-REQ530233?s=gh-internships-2027) |
 | **Brunswick** | Mercury Marine - Foundry Engineering Co-op | Fond du Lac, WI | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-050979?s=gh-internships-2027) |
 | **Freddie Mac** | Multifamily Business Intern - Summer 2027 | McLean, VA | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-freddiemac-external-JR17561?s=gh-internships-2027) |
 | **Invesco** | Early Career Intern - Corporate Services, Travel and Events (Finance) | Atlanta, Georgia | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-invesco-ivz-R-15355?s=gh-internships-2027) |
