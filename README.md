@@ -176,7 +176,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **Eulerity** | AI Intern - Office of CEO & Head of Product | New York, NY | 7h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027) |
+| **Eulerity** | AI Intern - Office of CEO & Head of Product | New York, NY | 8h | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-eulerity-4722871006?s=gh-internships-2027) |
 | **Zoetis** | Chemistry Data Science Intern - Digital CMC Workflows | Kalamazoo - Downtown Portage Street | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-zoetis-zoetis-JR00021822?s=gh-internships-2027) |
 | **Arch Capital Group** | Data and Analytics Intern | Farmington, CT United States of... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-archgroup-careers-R26_845?s=gh-internships-2027) |
 | **Cox** | Data Scientist Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682164?s=gh-internships-2027) |
@@ -509,7 +509,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-internships-2027) |
+| **RTX** | Materials Management & Logistics Internship Program (Summer 2027) | CT-EAST HARTFORD-ETC | 2h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01862953?s=gh-internships-2027) |
 | **ASM Global** | Finance Intern   Highmark Stadium | Orchard Park, NY | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-asmglobal-careers-R100125955?s=gh-internships-2027) |
 | **Nissan** | Customer Journey and Strategy Intern - Summer 2027 - Franklin, TN | Franklin, Tennessee - United... | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-alliance-nissanjobs-R00214244?s=gh-internships-2027) |
 | **Clarios** | Talent Acquisition Intern (Fall 2026) | WI | 1d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-clarios-clarioscareers-WD50754?s=gh-internships-2027) |
