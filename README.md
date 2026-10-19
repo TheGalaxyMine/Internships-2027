@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-internships-2027) |
-| **RTX** | Mechanical Automation Engineering Intern (Summer 2027) | TX-MCKINNEY | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881162?s=gh-internships-2027) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-internships-2027) |
+| **RTX** | Mechanical Automation Engineering Intern (Summer 2027) | TX-MCKINNEY | 28m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881162?s=gh-internships-2027) |
 | **Cox** | Software Engineering Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | 1d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682166?s=gh-internships-2027) |
 | **AeroVironment** | Software Engineering Intern | Moorpark, CA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-avav-avav-9094?s=gh-internships-2027) |
 | **ABB** | Supplier Quality Engineer Intern | New Berlin, Wisconsin, United... | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-abb-external-career-page-JR00048713?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027047?s=gh-internships-2027) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | 18m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027047?s=gh-internships-2027) |
 | **KLA** | Optical Engineering Intern | Ann Arbor, MI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641705?s=gh-internships-2027) |
 | **KLA** | Opto-Mechanical Intern | Ann Arbor, MI | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-kla-search-2641704?s=gh-internships-2027) |
 | **Allegion** | Summer Intern - Firmware Engineer | Farmington, CT | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-allegion-careers-JR37449?s=gh-internships-2027) |
@@ -578,7 +578,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **1Password** | Finance Intern - Finance Operations - Winter 2027 | Remote (United States  Canada) | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-1password-25a06bd3-2367-4cfc-8624-4c6d7c938459?s=gh-internships-2027) |
 | **CapTech Consulting** | Consulting Internship: Business Systems Analyst (Summer 2027) | Richmond, VA | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-CapTechConsulting-744000155060459?s=gh-internships-2027) |
 | **Northrop Grumman** | 2027 Supply Chain Intern - San Diego CA | United States-California-San Diego | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-ngc-northrop-grumman-external-site-R10252095?s=gh-internships-2027) |
-| **Bosch Group** | HR Intern - Winter 2027 | Farmington Hills, MI | 6d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154905820?s=gh-internships-2027) |
+| **Bosch Group** | HR Intern - Winter 2027 | Farmington Hills, MI | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/sr-BoschGroup-744000154905820?s=gh-internships-2027) |
 | **Kroger** | Spring 2027 Human Resources Internship-Supply Chain | Dallas, TX, United States | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/oracle-kroger-239592?s=gh-internships-2027) |
 | **UPS** | Seasonal HR Intern | COMMERCE CITY, Colorado | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/phenom-ups-R26031842?s=gh-internships-2027) |
 | **Nox Metals** | Marketing Intern | Los Angeles | 1w |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/ashby-nox-metals-dab1e3fa-927e-4c4c-83e1-c987f7b96b9a?s=gh-internships-2027) |
