@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-internships-2027) |
-| **RTX** | Mechanical Automation Engineering Intern (Summer 2027) | TX-MCKINNEY | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881162?s=gh-internships-2027) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Software Engineering | US, CA, Santa Clara | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2026958?s=gh-internships-2027) |
+| **RTX** | Mechanical Automation Engineering Intern (Summer 2027) | TX-MCKINNEY | 27m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01881162?s=gh-internships-2027) |
 | **Carnegie Mellon SEI** | AI Security Software Engineer Intern – Summer 2027 | Pittsburgh, PA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cmu-sei-2025200?s=gh-internships-2027) |
 | **Cisco** | Software Engineer Data & AI PhD (Intern) - United States | San Jose California US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cisco-cisco-careers-2025611?s=gh-internships-2027) |
 | **Cox** | Software Engineering Intern - Summer 2027 (Atlanta, GA) | Atlanta GA | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cox-cox-external-career-site-1-R202682166?s=gh-internships-2027) |
@@ -287,7 +287,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **NVIDIA** | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | 7m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027047?s=gh-internships-2027) |
+| **NVIDIA** | NVIDIA 2027 Ignite Internships: Hardware Engineering | US, CA, Santa Clara | 17m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2027047?s=gh-internships-2027) |
 | **GlobalFoundries** | Industrial Engineering Intern (Summer 2027) | USA - New York - Malta | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604575?s=gh-internships-2027) |
 | **GlobalFoundries** | Advanced Manufacturing Engineering Intern, Process & Equipment (Summer 2027) | USA - New York - Malta | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604592?s=gh-internships-2027) |
 | **Crane Co.** | Engineering Intern PT | 70900-USA7900 VS USA_TWINSBURG-OH | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-cranecompany-careers-JR102758?s=gh-internships-2027) |
@@ -400,7 +400,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 |---------|------|----------|--------|------|----------|
 | **NVIDIA** | Product Marketing Management MBA Intern - Summer 2027 | US, CA, Santa Clara | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nvidia-nvidiaexternalcareersite-JR2025672?s=gh-internships-2027) |
 | **GlobalFoundries** | Foundation IP Design Verification Intern (Summer 2027) | USA - California - Santa Clara | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604356?s=gh-internships-2027) |
-| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112529?s=gh-internships-2027) |
+| **Micron Technology** | Intern - Memory Design Engineer, HBM | Richardson, TX | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112529?s=gh-internships-2027) |
 | **Philips** | Intern– Design Assurance Engineer – Colorado Springs, CO – Summer 2027 | Colorado Springs, Colorado,... | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-philips-jobs-and-careers-591948?s=gh-internships-2027) |
 | **Daimler Truck** | Mechanical Product Design Intern | Gaffney, SC US | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-dtna-dtna-external-DT-20265?s=gh-internships-2027) |
 | **General Motors** | 2027 Summer Intern - Human Interface Design | 2 Locations | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-generalmotors-careers-gm-JR-202619285?s=gh-internships-2027) |
@@ -628,7 +628,7 @@ Connect and seek advice from a growing network of fellow students and new grads.
 | **GlobalFoundries** | GF Labs Research AM & FAE Support Intern (Summer 2027) | USA - Vermont - Essex Junction | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalfoundries-external-JR-2604431?s=gh-internships-2027) |
 | **Brunswick** | Mercury Marine - Foundry Engineering Co-op | Fond du Lac, WI | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-brunswick-search-JR-050979?s=gh-internships-2027) |
 | **Micron Technology** | Intern - SDR | Boise, ID - Main Site | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR112775?s=gh-internships-2027) |
-| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR106521?s=gh-internships-2027) |
+| **Micron Technology** | Intern - DRAM Customer Enablement Engineering | Boise, ID - Main Site | 2d | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-micron-external-JR106521?s=gh-internships-2027) |
 | **Nike** | Converse Social Community Impact Graduate Internship | Boston, Massachusetts | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-nike-nke-R-95789?s=gh-internships-2027) |
 | **Thornton Tomasetti** | Building Envelope Intern | Chicago, IL, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7453?s=gh-internships-2027) |
 | **Thornton Tomasetti** | Structural Engineer Intern | Chicago, IL, USA | 2d |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-tt-thorntontomasetti-R7484?s=gh-internships-2027) |
