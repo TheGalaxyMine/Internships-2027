@@ -65,8 +65,8 @@ Connect and seek advice from a growing network of fellow students and new grads.
 
 | Company | Role | Location | Posted | Visa | **Apply** |
 |---------|------|----------|--------|------|----------|
-| **RTX** | Part time Software Engineer Co-op (Remote) | CO-AURORA-S75 | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883452?s=gh-internships-2027) |
-| **RTX** | Part time Software Engineer Co-op (Remote) | TX-RICHARDSON-C17 | 45m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883545?s=gh-internships-2027) |
+| **RTX** | Part time Software Engineer Co-op (Remote) | CO-AURORA-S75 | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883452?s=gh-internships-2027) |
+| **RTX** | Part time Software Engineer Co-op (Remote) | TX-RICHARDSON-C17 | 52m | ✅ Sponsor | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01883545?s=gh-internships-2027) |
 | **Verizon** | Verizon’s Thurgood Marshall College Fund Immersion Program: Verizon Business Group: Solutions... | Irving Texas | 1h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-verizon-verizon-careers-R-1102416?s=gh-internships-2027) |
 | **RTX** | Electro-Optics Systems Engineer Intern (Onsite) | TX-MCKINNEY | 7h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/workday-globalhr-rec-rtx-ext-gateway-01880586?s=gh-internships-2027) |
 | **Rocket Lab** | Ground Systems Engineering Intern Summer 2027 | Stennis Space | 11h |  | [<img src="images/apply.png" width="80" alt="Apply">](https://zapply.jobs/l/d/greenhouse-rocketlab-8007202003?s=gh-internships-2027) |
